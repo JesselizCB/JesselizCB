@@ -47,6 +47,7 @@ const jess = {
 ----
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
+
 ### 🛠 &nbsp;Tech Stack
 <p align="center">
 <code><img height="23" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
@@ -74,16 +75,18 @@ const jess = {
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/jesselizcb">
-  <img alt="Isha's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesselizcb&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesselizcb&layout=compact&langs_count=8&theme=radical"/>
+<a href="https://github.com/Davekibh">
+  <img alt="Jess's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesselizcb&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
+  </a>
+
+<a href="https://github.com/Davekibh">
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesselizcb&layout=compact&langs_count=8&theme=radical"  />
 </a>
-</p>
 
 ----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<p align="center">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em></p>
 
 
 ### 🤝🏻 &nbsp;Connect with Me
