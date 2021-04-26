@@ -75,6 +75,7 @@ const jess = {
 <br/>
 <br/>
 <br/>
+
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/Davekibh">
@@ -97,4 +98,4 @@ const jess = {
 <a href="https://www.linkedin.com/in/yesseliz-choque/"><img src="https://img.shields.io/badge/-Yesseliz%20Choque%20Becerra-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:yesselizcb@gmail.com"><img src="https://img.shields.io/badge/-yesselizcb@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/jesselizcb"><img src="https://img.shields.io/badge/-@jesselizcb-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/YESSELIZCB/"><img src="https://img.shields.io/badge/-@YESSELIZCB-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/YESSELIZCB/"><img src="https://img.shields.io/badge/-@YESSELIZCB-1877F2?style=flat&logo=Facebook&logoColor=white"/></a></p>
