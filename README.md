@@ -72,7 +72,9 @@ const jess = {
 <code><img height="23" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg"></code>
 <code><img height="23" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"></code>
 <code><img height="23" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
+<br/>
+<br/>
+<br/>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <a href="https://github.com/Davekibh">
