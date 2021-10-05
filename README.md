@@ -78,11 +78,11 @@ const jess = {
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/JesselizCB">
   <img alt="Jess's Github Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jesselizcb&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400"/>
   </a>
 
-<a href="https://github.com/Davekibh">
+<a href="https://github.com/JesselizCB">
    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jesselizcb&layout=compact&langs_count=8&theme=radical"  />
 </a>
 
