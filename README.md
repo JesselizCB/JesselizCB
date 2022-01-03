@@ -6,7 +6,7 @@
 
 ## 📖 About me
 
-* 💻 I'm a front-end developer in Konecta
+* 💻 I'm a front-end developer
 * 🎓 I'm a Systems Engineer 
 * 📱 I make apps for Android and iOS
 *  💡 I like to explore new technologies and develop software solutions and quick hacks.
